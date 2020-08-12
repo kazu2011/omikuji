@@ -1,0 +1,35 @@
+body {
+  background-color: #efefef;
+}
+
+#btn {
+  height: 300px;
+  width:300px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: red;
+  border-radius: 50%;
+  box-shadow: 0 10px black;
+  line-height: 300px;
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+  user-select: none;
+}
+
+#btn:hover {
+  cursor: pointer;
+}
+
+#btn:active {
+  box-shadow: none;
+  position: relative;
+  top: 10px;
+}
+
+#content {
+  margin: 0 auto;
+  width: 80%;
+  text-align: center;
+  margin-top: 50px;
+}
