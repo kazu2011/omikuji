@@ -16,10 +16,10 @@
       text.textContent = "まあまあかな！";
     }　else if(n<0.60){
       btn.textContent = "中吉";
-      text.textContent = "あんまりついていない！";
+      text.textContent = "あんまりついていない！絡まれるよ";
     } else if(n<0.80){
-      btn.textContent = "小吉";
-      text.textContent = "外あるかな方が良いよ！絡まれるよ";
+      btn.textContent = "アーリオオーリオ";
+      text.textContent = "サイゼリヤのパスタのメニュー。素朴な味はまさに国宝級";
     }　else {
       btn.textContent = "凶";
       text.textContent = "どんまい！";
