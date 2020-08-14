@@ -19,7 +19,7 @@
       text.textContent = "あんまりついていない！絡まれるよ";
     } else if(n<0.80){
       btn.textContent = "アーリオ<br>オーリオ";
-      btn.style.width: 80px;
+      btn.style.font-size: 5px;
       text.textContent = "サイゼリヤのパスタのメニュー。素朴な味はまさに国宝級";
     }　else {
       btn.textContent = "凶";
