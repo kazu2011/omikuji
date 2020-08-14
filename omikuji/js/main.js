@@ -17,7 +17,7 @@
     }　else if(n<0.60){
       btn.textContent = "中吉";
       text.textContent = "あんまりついていない！絡まれるよ";
-    } else if(n<0.80){
+    } else if(n<0.65){
       btn.textContent = "AO";
       text.textContent = "サイゼリヤのパスタのメニュー。素朴な味はまさに国宝級";
     }　else {
