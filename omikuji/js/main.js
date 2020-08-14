@@ -18,7 +18,7 @@
       btn.textContent = "中吉";
       text.textContent = "あんまりついていない！絡まれるよ";
     } else if(n<0.80){
-      btn.textContent = "アーリオオーリオ";
+      btn.textContent = "アーリオ<br>オーリオ";
       text.textContent = "サイゼリヤのパスタのメニュー。素朴な味はまさに国宝級";
     }　else {
       btn.textContent = "凶";
